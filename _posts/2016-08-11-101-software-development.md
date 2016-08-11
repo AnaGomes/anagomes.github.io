@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "101 Software Development"
-date:   2016-08-10 21:22:00 +0100
+title: 101 Software Development
 ---
 
 ## Introduction
