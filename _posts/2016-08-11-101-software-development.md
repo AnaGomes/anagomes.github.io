@@ -6,9 +6,9 @@ title: 101 Software Development
 In a common developers world, where features always seems to come first, concerns like code quality, performance, optimization or security are easily forgotten. Pace becomes more and more important, regardless of the future cost it might obligate.
 
 ### Nowadays
-However, once someone taught me that 90% of a software creation is all about maintaince and only 10% it's the actual development. Taking this into account I would like to hightlight some key points that might be a life saviour on the long run:
+Once someone taught me that 90% of a software creation is all about it's maintaince and only 10% is the actual development. Taking this into account I would like to hightlight some key points that might be a life saviour on the long run:
 
-- **Crystal clear tasks:** both the description and the acceptance criteria should be well defined. Imagine that you have a bunch of customer data with elements like name, phone number, address, id number, birthday date, etc. Someone asks you a user-friendly way of presenting this data in your website. Without any further instructions, you can do a straight dump of the data to a table ordered by name. You think "Job done!" until the moment that you're told that what is actually needed is a phonebook-like interface with name, cell and address ordereding. (... missing something on this)
+- **Crystal clear tasks:** both the description and the acceptance criteria should be well defined. Imagine that you have a bunch of customer data with elements like name, phone number, address, id number and birthday date. Someone asks you a user-friendly way of presenting this data. Without any further instructions, you can do a straight dump of the data to a table ordered by name. You think "Job done!" until the moment that, after all, it was meant to be used in an application that only needs the username to be shown. 
 
 - **Documentation:** neither too much nor too little of it. It should be enough to give another person the context of the main purpose of that method, class, or project. If you feel that you to have to write a whole paragraph just to explain a simple function perhaps you should review the code itself first. 
 
@@ -20,11 +20,10 @@ However, once someone taught me that 90% of a software creation is all about mai
 
 - **Refactor:** this one follows the concept of the last bullet point. You did a simple code that perfectly works for the scenario you had. But all the sudden you acknowledged a whole country of new customers that are now asking for that unique feature that would fit perfectly in your project. And it is when you look at it that you see: that PoC database system no longer suits your needs neither do the way that you access the API for geolocation, e.g. Now is the time... for Refactor. Take advantage of the control version to help on this if something goes wrong and go for it. Adapt. Be a chameleon.
 
-- **Security measures:** so, you did all the other items and you feel great until someone gets in there and destroys it. Newer frameworks and versions of languages begin to have basic protection against the clear text login or XML External Entity injection.
+- **Security measures:** so, you did all the other items and you feel great until someone gets in there and destroys it. Newer frameworks and versions of languages begin to have basic protection against the most simple vulnerabilities. Think of it like having a fence defending your house. It's useless if it is 1ft tall and can't protect that beautiful garden. 
 
-Last but no least remember: even a master has something to learn. Don't ever forget to sometimes go into the wild and get something. 
+Last but not least remember: even a master has something to learn. Don't ever forget to sometimes go into the wild and get something new. 
 <sup><sub>(I know sometimes it gets you some bruises in the run but in the end, the feeling is great, isn't it? ;) )</sub></sup> 
-
 
 
 
