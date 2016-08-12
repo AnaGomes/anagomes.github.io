@@ -14,7 +14,7 @@ Once someone taught me that 90% of a software creation is all about it's maintai
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly 
 > as possible, you are, by definition, not smart enough to debug it.
-> Brian W. Kernighan
+> **Brian W. Kernighan**
 
 - **Optimize, optimize, optimize:** i like to think of developing like painting or writing a story. It's a never ending work. Either by adding more features some time or just by the need to improve performance because one day a bunch of customers all the suddenly appeared. I was just remembering about the spike of Pokemon Go. The developers though that had a finished work until they realized the success, servers crashing and lots of bugs found. But don't freak out right away. There is always a solution - perhaps a pattern might help you on this?.
 
